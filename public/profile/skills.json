@@ -1,0 +1,99 @@
+{
+    "intro": "I have a strong foundation in Python, SQL, and data visualization. I am highly adaptable and continuously seek opportunities to learn and grow. I embrace new technologies and methodologies with enthusiasm and approach challenges as opportunities for personal and professional development. With a growth mindset and a passion for staying updated in the field of data analytics, I am eager to expand my skill set and explore emerging trends.",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
+                }
+
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/d3.png",
+                    "title": "D3.js"
+                },
+                {
+                    "icon": "images/skills/leaflet.png",
+                    "title": "Leaflet.js"
+                },
+                {
+                    "icon": "images/skills/geojson.png",
+                    "title": "GeoJSON"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/jupyter.png",
+                    "title": "Jupyter Notebook"
+                },
+                {
+                    "icon": "images/skills/excel.png",
+                    "title": "Excel"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
+                },
+                {
+                    "icon": "images/skills/matplotlib.png",
+                    "title": "Matplotlib"
+                },
+                {
+                    "icon": "images/skills/Plotly.png",
+                    "title": "Plotly"
+                },
+                {
+                    "icon": "images/skills/NumPy.png",
+                    "title": "NumPy"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/beautifulsoup.png",
+                    "title": "Beautiful Soup"
+                },
+                {
+                    "icon": "images/skills/scikit.png",
+                    "title": "Scikit-learn"
+                }
+            ]
+    }
+]}

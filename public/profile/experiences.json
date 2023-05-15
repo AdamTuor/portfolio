@@ -1,0 +1,42 @@
+{
+    "experiences": [
+        {
+            "title": "English Teacher",
+            "subtitle": "Chungdahm Learning Institute, Daejeon, South Korea.",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Tracked student progress and used data to identify areas where the class was struggling, enabling targeted focus on specific skills and leading to significant improvements in overall performance.",
+                "Participated in meetings aimed at developing best practices for teaching methodologies, contributing data-driven insights and ideas that were instrumental in shaping curriculum development and instructional strategies.",
+                "Communicated complex information to diverse audiences, developing strong communication skills relevant to conveying data-driven insights to stakeholders.",
+                "Adapted lesson plans and addressed classroom challenges, demonstrating problem-solving skills and the ability to identify solutions through data analysis."
+            ],
+            "dateText": "02/2013 – 01/2023"
+        },
+        {
+            "title": "Assistant Manager - Hardlines",
+            "subtitle": "Kmart, West Long Branch, NJ.",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Developed and executed merchandising plans to drive sales and improve customer experience.",
+                "Tracked inventory levels and optimized ordering process to ensure product availability and minimize waste.",
+                "Monitored cash flow and implemented controls to prevent losses and maintain financial integrity.",
+                "Hired, trained, and coordinated a team of 75+ associates, providing coaching and feedback to drive performance and foster a positive work culture.",
+                "Achieved top-performing metrics in customer satisfaction, sales, and productivity through effective leadership and collaboration with cross-functional teams."
+            ],
+            "dateText": "10/2011 – 02/2013"
+        },
+        {
+            "title": "Electronics Team Member",
+            "subtitle": "Target, Brick, NJ.",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Leveraged my product knowledge and sales skills to consistently exceed sales targets and drive profitable revenue growth.",
+                "Managed street-dated merchandise, including entertainment and electronics, to ensure timely and efficient product launches.",
+                "Trained and mentored new team members to promote a positive and collaborative work environment."
+                
+            ],
+            "dateText": "04/2005 – 10/2011"
+        }
+
+    ]
+}

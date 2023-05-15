@@ -1,0 +1,25 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/TCA.png",
+            "title": "Toronto Crime Dashboard",
+            "bodyText": "- Interactive Map: The dashboard features an interactive map of Toronto, allowing users to visualize crime incidents across various neighborhoods.\n - Crime Filtering: Users can filter crime data based on different crime types, dates, and locations, enabling them to focus on specific areas of interest.  \n - Time-Series Analysis: The dashboard includes time-series analysis capabilities, enabling users to observe trends and patterns in crime incidents over time. \n - Data Visualization: The project utilizes D3.js and Leaflet.js to create visually appealing charts and maps that effectively represent crime data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdamTuor/Project-3"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "JavaScript",
+                "Leaflet.js",
+                "D3.js",
+                "PostgreSQL",
+                "Flask",
+                "HTML"
+            ]
+        }
+       
+    ]
+}

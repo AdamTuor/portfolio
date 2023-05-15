@@ -1,0 +1,28 @@
+{
+    "education":[
+        {
+            "title": "Dec 2022 - Jun 2023",
+            "cardTitle": "Data Analytics Immersive",
+            "cardSubtitle":"University of Toronto, Toronto, ON.",
+            "icon" : {
+                "src": "images/education/rowan.png"
+            }
+        },
+        {
+            "title": "Sep 2006 - Jun 2010",
+            "cardTitle": "BA - Advertising",
+            "cardSubtitle":"Rowan University, Glassboro, NJ",
+            "icon" : {
+                "src": "images/education/rowan.png"
+            }
+        },
+        {
+            "title": "Sep 2006 - Jun 2010",
+            "cardTitle": "BA - Public Relations",
+            "cardSubtitle":"Rowan University, Glassboro, NJ",
+            "icon" : {
+                "src": "images/education/rowan.png"
+            }
+        }
+    ]
+}

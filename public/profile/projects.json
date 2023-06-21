@@ -19,6 +19,29 @@
                 "Flask",
                 "HTML"
             ]
+        },
+        {
+            "image" : "images/projects/MLCP_resized.png",
+            "title": "Machine Learning Churn Prediction Web App",
+            "bodyText": "- Model Prediction: Predict customer churn in a telecommunications company.\n - User Input: Input customer attributes for churn prediction.\n - Data Preprocessing: Handle missing values, encode categorical variables, and scale numerical features.\n - SHAP Analysis: Analyze factors influencing the prediction using SHAP values.\n - Web Interface: Intuitive interface with user-friendly input fields and interactive visualization.\n - Real-time Results: Instantly view prediction and SHAP force plot.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdamTuor/project-4"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://customer-churn-predictor.onrender.com"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Machine Learning",
+                "Dash",
+                "SHAP",
+                "Data Preprocessing",
+                "Web Development"
+            ]
         }
        
     ]

@@ -42,6 +42,26 @@
                 "Data Preprocessing",
                 "Web Development"
             ]
+        },
+        {
+            "image" : "images/projects/citibike_resized.png",
+            "title": "Citibike Ride Analysis",
+            "bodyText": "- Data Preparation: Use Pandas to format and combine data from multiple years.\n - Hourly, Daily, and Monthly Trends: Visualize popularity of start and end stations by hour, day, and month.\n - Bar Graphs and Maps: Represent data in bar graphs and maps for easy interpretation.\n - Tableau Homepage: Create a navigation-friendly homepage to easily switch between visualizations.",
+            "links": [
+                {
+                    "text": "Tableau Public",
+                    "href": "https://public.tableau.com/app/profile/adam.tuor/viz/Challenge18-2/Home"
+                }
+               
+            ],
+            "tags" : [
+                "Tableau",
+                "Python",
+                "Pandas",
+                "Data Visualization",
+                "Data Analysis"
+                
+            ]
         }
        
     ]

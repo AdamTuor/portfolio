@@ -66,7 +66,7 @@
         {
             "image" : "images/projects/bellabeat_resized.png",
             "title": "Bellabeat Case Study",
-            "bodyText": "This project analyzes Fitbit fitness tracker data using R and tidyverse. Objectives include data preprocessing, exploratory analysis, usage patterns, hourly trends, and intensity analysis.",
+            "bodyText": "- Data Preprocessing: Employ R and tidyverse to clean, format, and merge the Fitbit data from various sources for further analysis.\n - Exploratory Data Analysis: Conduct a comprehensive exploration of the daily activity, hourly intensity, and step data to discover trends, patterns, and valuable insights.\n - Usage Patterns: Calculate and visualize the percentage of time users wore the Fitbit device, categorizing them into different usage groups.\n - Hourly Trends: Create insightful visualizations of the average daily steps on different days of the week to identify any significant patterns in activity levels.\n - Intensity Analysis: Investigate the different intensity levels recorded by the Fitbit device and analyze their distribution across users and time.",
             "links": [
                 {
                     "text": "Analysis",

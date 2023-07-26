@@ -62,6 +62,24 @@
                 "Data Analysis"
                 
             ]
+        },
+        {
+            "image" : "images/projects/bellabeat_resized.png",
+            "title": "Bellabeat Case Study",
+            "bodyText": "This project analyzes Fitbit fitness tracker data using R and tidyverse. Objectives include data preprocessing, exploratory analysis, usage patterns, hourly trends, and intensity analysis.",
+            "links": [
+                {
+                    "text": "Analysis",
+                    "href": "https://rpubs.com/tuora99/bellabeat-case-study"
+                }
+            ],
+            "tags" : [
+                "R",
+                "tidyverse",
+                "Data Cleaning",
+                "Data Exploration",
+                "Data Visualization"                
+            ]
         }
        
     ]

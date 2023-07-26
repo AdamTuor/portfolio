@@ -1,11 +1,19 @@
 {
     "education":[
         {
+            "title": "Jun 2023 - July 2023",
+            "cardTitle": "Google Data Analytics Certificate",
+            "cardSubtitle":"Coursera",
+            "icon" : {
+                "src": "images/education/coursera.png"
+            }
+        },
+        {
             "title": "Dec 2022 - Jun 2023",
             "cardTitle": "Data Analytics Immersive",
             "cardSubtitle":"University of Toronto, Toronto, ON.",
             "icon" : {
-                "src": "images/education/rowan.png"
+                "src": "images/education/UofT.png"
             }
         },
         {

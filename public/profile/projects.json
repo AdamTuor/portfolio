@@ -44,23 +44,23 @@
             ]
         },
         {
-            "image" : "images/projects/citibike_resized.png",
-            "title": "Citibike Ride Analysis",
-            "bodyText": "- Data Preparation: Use Pandas to format and combine data from multiple years.\n - Hourly, Daily, and Monthly Trends: Visualize popularity of start and end stations by hour, day, and month.\n - Bar Graphs and Maps: Represent data in bar graphs and maps for easy interpretation.\n - Tableau Homepage: Create a navigation-friendly homepage to easily switch between visualizations.",
+            "image" : "images/projects/toronto_pd.png",
+            "title": "Toronto Crime Analysis Report",
+            "bodyText": "- Data Preparation: Cleaned and transformed raw crime data using Python and Pandas to make it suitable for analysis.\n - General Overview: Created an initial page providing a high-level overview of crime in Toronto neighborhoods.\n - Detailed Exploration: Developed interactive dashboards allowing users to explore specific neighborhoods by year, crime type, premise type, and days of the week.\n - Spatial Analysis: Incorporated a map visualization to display the geographical distribution of crimes in Toronto.\n - Decomposition Tree: Utilized a decomposition tree to analyze crime data by type, premise, day, and hour.\n - Neighborhood Insights: Included a separate table that dynamically updates based on decomposition tree selections, showing the incident count in individual neighborhoods.",
             "links": [
                 {
-                    "text": "Tableau Public",
-                    "href": "https://public.tableau.com/app/profile/adam.tuor/viz/Challenge18-2/Home"
+                    "text": "Power BI Report",
+                    "href": "https://app.powerbi.com/view?r=eyJrIjoiYTIzYmZhYmMtOTA2Ni00M2RkLTk3NDAtYjY5MDc4NWMwMjU2IiwidCI6IjRhN2U5OWU3LTczMTAtNDg0Ni1iNzM0LWJlNmFlOWY0YmI0OSJ9"
                 }
-               
             ],
             "tags" : [
-                "Tableau",
+                "Power BI",
                 "Python",
                 "Pandas",
                 "Data Visualization",
-                "Data Analysis"
-                
+                "Data Analysis",
+                "Spatial Analysis",
+                "Interactive Dashboards"
             ]
         },
         {
@@ -80,7 +80,28 @@
                 "Data Exploration",
                 "Data Visualization"                
             ]
+        },
+        {
+            "image" : "images/projects/citibike_resized.png",
+            "title": "Citibike Ride Analysis",
+            "bodyText": "- Data Preparation: Use Pandas to format and combine data from multiple years.\n - Hourly, Daily, and Monthly Trends: Visualize popularity of start and end stations by hour, day, and month.\n - Bar Graphs and Maps: Represent data in bar graphs and maps for easy interpretation.\n - Tableau Homepage: Create a navigation-friendly homepage to easily switch between visualizations.",
+            "links": [
+                {
+                    "text": "Tableau Public",
+                    "href": "https://public.tableau.com/app/profile/adam.tuor/viz/Challenge18-2/Home"
+                }
+               
+            ],
+            "tags" : [
+                "Tableau",
+                "Python",
+                "Pandas",
+                "Data Visualization",
+                "Data Analysis"
+                
+            ]
         }
+
        
     ]
 }
